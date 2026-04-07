@@ -1,8 +1,10 @@
 ## 你好！我是 pingguomc。
 
-RedStarMC 社区管理组成员，Java、C++、Python 开发者。
+Java、C++、Python 开发者。
 
-MineJPGcraft 服务器交流组织开发部成员。
+RedStarMC 社区管理组成员。
+
+MineJPGcraft（MCJPG） 服务器交流组织管理组成员，开发部成员。
 
 现居河北，学生。
 
